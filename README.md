@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://www.pinclipart.com/picdir/big/565-5659210_pikachu-clipart-file-cute-borders-vectors-animated-.png" alt="alt text" width="150r" height="100r"> </p>
 
 
-# <p align="center"> Topic of discussion **Growth Mindset**.
+# Topic of discussion **Growth Mindset**.
 
 I believe growth mindset means to learn and grow to better themselves. It's about keeping a positive attitude and though you may not be **good** at something yet but you put in the drive to challenge yourself, learn, and find solutions so from a few months from now you will be **great**. 
 

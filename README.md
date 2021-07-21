@@ -13,10 +13,10 @@ Do not give into temptation, set a **routine**.
 - **WAKE UP EARLY**⏰   My biggest problem is waking up at the time when I set my alarm. I have the growth mindset the night before where I plan my day and tell myself I want to wake up at this time to start my day. My biggest problem is waking up then losing that mindset and hitting the snooze button constantly so when I finally wake up I  feel rushed on the start of my day.
   - **Nourish yourself.🌞 Stay hydrated🚰 Bring snacks.🍿**  Have a healthy breakfast even if its a small bite. _Its the most important meal of the day, they say._ I usually never eat in the morning and when lunch time comes around I am usually starving. If I am at work this can be an issue because instead of focusing on the task at hand, I am focusing more on what I want to eat. I find myself constantly looking at menus on door dash and constantly looking at the clock when my lunch break is about to start. Drink your water throughout the day. Don't forget to bring snacks!
 #### Challenge Yourself and Overcome Obstacles
-* Analyze the problem. 
-* Focus on the steps to achieve. 
-* Take a step back. 
-* Never give up. 
+1. Analyze the problem. 
+2. Focus on the steps to achieve. 
+3. Take a step back. 
+4. Never give up. 
    - **Take a break, Treat yourself🍬** I get fustrated and overthink very easily. The Pivot Tech prework is a huge example. Lab:01b Looking over the course at hand I found myself with a challenge with Github. I have experience with HTML in the past that was self taught during the Myspace and Angelfire days. That was years ago. The course says **Take your time**. I jumped in full force without having any idea what I was doing on Github. Then I decided to skip for now and went to the next lesson. That was my huge mistake adding another challenge on top and getting overwhelmed **Take a lap.** I took my dogs on a long walk, this helped clear my head and think of ways on how I should break down the lesson in parts to better understand. After you accomplish your goal, **Treat yourself to a reward** It can be anything from a tasty dessert, a nap or a hot shower/bath. Unproductive time to yourself just laying on the couch watching TV or playing a video game is a treating yourself.
 
 #### Successful of Others and Criticism 

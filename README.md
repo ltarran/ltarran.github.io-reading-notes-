@@ -1,4 +1,4 @@
-# Welcome 👋 
+# Welcome 👋
 ### **I'm Lisa! Thanks for taking a peep 👀**
 
 # Topic of discussion **Growth Mindset**.

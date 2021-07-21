@@ -1,7 +1,9 @@
-# Welcome 👋
-### **I'm Lisa! Thanks for taking a peep 👀**
+# <p align="center"> **Welcome** 👋
+### <p align="center">**I'm Lisa! Thanks for taking a peep 👀** 
+<p align="center"> <img src="https://www.pinclipart.com/picdir/big/565-5659210_pikachu-clipart-file-cute-borders-vectors-animated-.png" alt="alt text" width="150r" height="100r"> </p>
 
-# Topic of discussion **Growth Mindset**.
+
+# <p align="center"> Topic of discussion **Growth Mindset**. </p>
 
 I believe growth mindset means to learn and grow to better themselves. It's about keeping a positive attitude and though you may not be **good** at something yet but you put in the drive to challenge yourself, learn, and find solutions so from a few months from now you will be **great**. 
 
@@ -35,7 +37,7 @@ Try not to feel discouraged from direct criticism instead **Ask Questions.**
   What were the best aspects and what can I do to improve?
   
   
-  ![mimikyulove](https://i.pinimg.com/originals/cd/51/90/cd5190e6c7514a9f6ce8dac293c8e038.jpg)  
+![mimikyulove](https://i.pinimg.com/originals/cd/51/90/cd5190e6c7514a9f6ce8dac293c8e038.jpg)</p>
 
 
   

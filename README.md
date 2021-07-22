@@ -13,7 +13,8 @@ I believe growth mindset means to learn and grow to better themselves. It's abou
 
 Do not give into temptation, set a **routine**. 
 - **WAKE UP EARLY**⏰   My biggest problem is waking up at the time when I set my alarm. I have the growth mindset the night before where I plan my day and tell myself I want to wake up at this time to start my day. My biggest problem is waking up then losing that mindset and hitting the snooze button constantly so when I finally wake up I  feel rushed on the start of my day.
-  - **Nourish yourself.🌞 Stay hydrated🚰 Bring snacks.🍿**  Have a healthy breakfast even if its a small bite. _Its the most important meal of the day, they say._ I usually never eat in the morning and when lunch time comes around I am usually starving. If I am at work this can be an issue because instead of focusing on the task at hand, I am focusing more on what I want to eat. I find myself constantly looking at menus on door dash and constantly looking at the clock when my lunch break is about to start. Drink your water throughout the day. Don't forget to bring snacks!
+  - **Nourish yourself.🌞 Stay hydrated🚰 Bring snacks.🍿**  Have a healthy breakfast even if its a small bite. _Its the most important meal of the day, they say._ I usually never eat in the morning and when lunch time comes around I am usually starving. If I'm at work this can be an issue because instead of focusing on the task at hand, I am focusing more on what I want to eat. I find myself constantly looking at menus on door dash and looking at the clock when my lunch break is about to start. Drink your water throughout the day. Don't forget to bring snacks!
+
 #### Challenge Yourself and Overcome Obstacles
 - Analyze the problem. 
 - Focus on the steps to achieve. 

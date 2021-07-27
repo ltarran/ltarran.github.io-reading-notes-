@@ -35,7 +35,8 @@ There are 2 types of paths **absolute** and **relative**.
 
 
 
-2. **Relative paths** specify a location (file or directory) in relation to where we currently are in the system. **They will not begin with a slash.**                                      
+2. <b>Relative paths</b> specify a location (file or directory) in relation to where we currently are in the system.
+   * **They will not begin with a slash.**                                      
 >                       1. lisatarran@CO1234: ls Documents
 >                       2. file1.txt file2.txt file3.txtfile1.txt file2.txt file3.txt </form>
 

@@ -9,38 +9,38 @@ You can use Markdown most places around GitHub:
 
 ## Basics
 
-1. Headings
- 1. To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
+### 1. **Headings**
+      To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
 
 
-1. Emphasis
+### 2. **Emphasis**
   * You can add emphasis by making text bold or italic.
 
-Bold
-To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+### 3. **Bold**
+  * To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
 
-Italic
-To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+### 4. **Italic**
+  * To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
 
-Bold and Italic
+### 5. **Bold and Italic**
 
-To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+  * To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
 
-Lists
+### 6. **Lists**
 
 You can organize items into ordered and unordered lists.Unordered
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+    * Item 1
+    * Item 2
+    * Item 2a
+    * Item 2b
 
-Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+### 7. **Ordered**
+    1. Item 1
+    1. Item 2
+    1. Item 3
+      1. Item 3a
+      1. Item 3b
 
 Links
 http://github.com - automatic!

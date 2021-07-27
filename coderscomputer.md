@@ -24,7 +24,7 @@ The command is short for list. ls stands for “list files” and will list all 
 This command means to change directory. This will change the directory that you're currently working with in the Terminal in order to execute other commands on a different directory, view the contents of a different directory or open a file in a different directory. 
   * **Tip** If you ever lose your place and which directory you're in, type pwd (print working directory) and press Return to echo the current path.
   
-# <center> **Paths** </center>
+# <center> <b>Paths</b> </center>
 
 There are 2 types of paths **absolute** and **relative**. 
 

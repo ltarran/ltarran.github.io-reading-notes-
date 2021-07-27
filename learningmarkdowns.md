@@ -10,7 +10,9 @@ You can use Markdown most places around GitHub:
 ## Basics
 
 ### 1. **Headings**
-      To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
+      To create a heading, add number signs (#) in front of a word or phrase. 
+      The number of number signs you use should correspond to the heading level. 
+      For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
 
 
 ### 2. **Emphasis**
@@ -32,8 +34,8 @@ You can organize items into ordered and unordered lists.Unordered
 
     * Item 1
     * Item 2
-    * Item 2a
-    * Item 2b
+       * Item 2a
+       * Item 2b
 
 ### 7. **Ordered**
     1. Item 1
@@ -42,8 +44,14 @@ You can organize items into ordered and unordered lists.Unordered
       1. Item 3a
       1. Item 3b
 
-Links
-http://github.com - automatic!
-[GitHub](http://github.com)
+### 8. **Links**
+
+                * You can create an inline link by wrapping link text in brackets [ ], 
+                and then wrapping the URL in parentheses ( ). 
+                You can also use the keyboard shortcut command + k to create a link.  
+
+link.http://github.com - automatic!
+
+             [GitHub](http://github.com)
 
 

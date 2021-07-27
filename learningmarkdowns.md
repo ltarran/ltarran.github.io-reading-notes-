@@ -1,4 +1,4 @@
-# Markdowns
+# <center> Markdowns
 
 Markdown is a way to style text on the web. 
 
@@ -46,7 +46,7 @@ You can organize items into ordered and unordered lists.Unordered
 
 ### 8. **Links**
 
-                * You can create an inline link by wrapping link text in brackets [ ], 
+                You can create an inline link by wrapping link text in brackets [ ], 
                 and then wrapping the URL in parentheses ( ). 
                 You can also use the keyboard shortcut command + k to create a link.  
 

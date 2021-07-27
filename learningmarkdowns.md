@@ -7,14 +7,14 @@ You can use Markdown most places around GitHub:
 * Comments in Issues and Pull Requests
 * Files with the .md or .markdown extension
 
-Basics
+## Basics
 
-Headings
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
+1. Headings
+ 1. To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
 
 
-Emphasis
-You can add emphasis by making text bold or italic.
+1. Emphasis
+  * You can add emphasis by making text bold or italic.
 
 Bold
 To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.

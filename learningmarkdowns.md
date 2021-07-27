@@ -1,13 +1,13 @@
-# <center> Markdowns </center>
+# <center> Markdowns
 
 Markdown is a way to style text on the web. 
 
 You can use Markdown most places around GitHub:
 * Gist
 * Comments in Issues and Pull Requests
-* Files with the .md or .markdown extension
+* Files with the .md or .markdown extension </center>
 
-## Basics
+## <center> Basics
 
 ### 1. **Headings**
       To create a heading, add number signs (#) in front of a word or phrase. 
@@ -52,6 +52,9 @@ You can organize items into ordered and unordered lists.Unordered
 
 link.http://github.com - automatic!
 
-             [GitHub](http://github.com)
+      [GitHub](http://github.com)    
+      
+     
+   </center>
 
 

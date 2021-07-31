@@ -1,18 +1,18 @@
-What is Git?
+# <center><b>What is Git?</b></center>
 
- Github is not git.
+ Github is *not* git.
 
 Git is a type of version control system (VCS) that makes it easier to track changes to files. For example, when you edit a file, git can help you determine exactly what changed, who changed it, and why.
 
-Common commands
+## <b>Common commands</b>
 
 Start your own repository from scratch (in any existing folder on your computer):
 
-Git init
+    Git init
 
 This will create a hidden .git folder inside your current folder — this is the "repository" (or repo) where git stores all of its internal tracking data. Any changes you make to any files within the original folder will now be possible to track.
 
-Clone an existing repo:
+##  <b>Clone an existing repo:</b>
 
 git clone https://github.com/cooperka/emoji-commit-messages.git
 

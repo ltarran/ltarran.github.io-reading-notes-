@@ -40,6 +40,13 @@ Try not to feel discouraged from direct criticism instead **Ask Questions.**
   
 ![mimikyulove](https://i.pinimg.com/originals/cd/51/90/cd5190e6c7514a9f6ce8dac293c8e038.jpg)
 
+1. [Home](https://ltarran.github.io/reading-notes)  
+
+2. [Learning Markdowns](https://ltarran.github.io/reading-notes/learningmarkdowns)
+
+3. [Coder's Computer](https://ltarran.github.io/reading-notes/coderscomputer)
+
+4. [Git](https://ltarran.github.io/reading-notes/git)
 
   
 

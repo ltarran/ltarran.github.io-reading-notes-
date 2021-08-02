@@ -54,6 +54,16 @@ link.http://github.com - automatic!
 
       [GitHub](http://github.com)    
       
+      
+
+1. [Home](https://ltarran.github.io/reading-notes)  
+
+2. [Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)
+
+3. [Coder's Computer](https://ltarran.github.io/reading-notes/coderscomputer)
+
+4. [Git](https://ltarran.github.io/reading-notes/git)
+      
      
 
 

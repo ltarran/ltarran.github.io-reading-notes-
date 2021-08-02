@@ -40,3 +40,11 @@ There are 2 types of paths **absolute** and **relative**.
 >                       1. lisatarran@CO1234: ls Documents
 >                       2. file1.txt file2.txt file3.txtfile1.txt file2.txt file3.txt </form>
 
+
+1. [Home](https://ltarran.github.io/reading-notes)  
+
+2. [Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)
+
+3. [Learning Markdown](https://ltarran.github.io/reading-notes/learningmarkdowns)
+
+4. [Git](https://ltarran.github.io/reading-notes/git)

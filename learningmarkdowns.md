@@ -55,7 +55,7 @@ link.http://github.com - automatic!
       [GitHub](http://github.com)    
       
       
-
+#
 1. [Home](https://ltarran.github.io/reading-notes)  
 
 2. [Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)
@@ -65,6 +65,8 @@ link.http://github.com - automatic!
 4. [Git](https://ltarran.github.io/reading-notes/git)
 
 5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)
+
+6. [HTML](ltarran.github.io/reading-notes/html)
       
      
 

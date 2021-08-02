@@ -38,7 +38,9 @@ Try not to feel discouraged from direct criticism instead **Ask Questions.**
   What were the best aspects and what can I do to improve?
   
   
-![mimikyulove](https://i.pinimg.com/originals/cd/51/90/cd5190e6c7514a9f6ce8dac293c8e038.jpg)
+![mimikyulove](https://i.pinimg.com/originals/cd/51/90/cd5190e6c7514a9f6ce8dac293c8e038.jpg) 
+
+#
 
 1. [Home](https://ltarran.github.io/reading-notes)  
 
@@ -49,6 +51,8 @@ Try not to feel discouraged from direct criticism instead **Ask Questions.**
 4. [Git](https://ltarran.github.io/reading-notes/git)
 
 5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)
+
+6. [HTML](ltarran.github.io/reading-notes/html)
 
   
 

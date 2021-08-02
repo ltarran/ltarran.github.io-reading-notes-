@@ -24,3 +24,6 @@
 4. [Git](https://ltarran.github.io/reading-notes/git)
 
 5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)
+
+6. [HTML](ltarran.github.io/reading-notes/html)
+

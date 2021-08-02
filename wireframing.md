@@ -24,6 +24,8 @@ Wireframing is a way to design a website service at the structural level. A wire
 5. Add some detail and get testing
 6. Start turning your wireframes into prototypes
 
+#
+
 1. [Home](https://ltarran.github.io/reading-notes)  
 
 2. [Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)
@@ -33,4 +35,6 @@ Wireframing is a way to design a website service at the structural level. A wire
 4.  [Coders Computer](https://ltarran.github.io/reading-notes/coderscomputer)
 
 5.  [Git](httops:/ltarran.github.io/reading-notes/git)
+
+6. [HTML](ltarran.github.io/reading-notes/html)
 

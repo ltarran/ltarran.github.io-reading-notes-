@@ -40,6 +40,7 @@ There are 2 types of paths **absolute** and **relative**.
 >                       1. lisatarran@CO1234: ls Documents
 >                       2. file1.txt file2.txt file3.txtfile1.txt file2.txt file3.txt </form>
 
+#
 
 1. [Home](https://ltarran.github.io/reading-notes)  
 
@@ -50,3 +51,5 @@ There are 2 types of paths **absolute** and **relative**.
 4. [Git](https://ltarran.github.io/reading-notes/git)
 
 5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)
+
+6. [HTML](ltarran.github.io/reading-notes/html)

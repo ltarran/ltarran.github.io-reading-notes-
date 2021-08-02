@@ -52,7 +52,7 @@ After editing some files, this command will mark any changes youâ€™ve made as â€
     
 After using these commands, files are tracked and staged for committing.
 
-## Table of Contents
+#
 
 1. [Home](https://ltarran.github.io/reading-notes)  
 
@@ -63,3 +63,6 @@ After using these commands, files are tracked and staged for committing.
 4. [Coders Computer](https://ltarran.github.io/reading-notes/git)
 
 5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)
+
+6. [HTML](ltarran.github.io/reading-notes/html)
+

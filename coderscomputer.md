@@ -48,3 +48,5 @@ There are 2 types of paths **absolute** and **relative**.
 3. [Learning Markdown](https://ltarran.github.io/reading-notes/learningmarkdowns)
 
 4. [Git](https://ltarran.github.io/reading-notes/git)
+
+5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)

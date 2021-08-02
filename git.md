@@ -51,3 +51,13 @@ After editing some files, this command will mark any changes youâ€™ve made as â€
      $ git add *
     
 After using these commands, files are tracked and staged for committing.
+
+## Table of Contents
+
+1. [Home](https://ltarran.github.io/reading-notes)  
+
+2. [Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)
+
+3. [Learning Markdown](https://ltarran.github.io/reading-notes/learningmarkdowns)
+
+4. [Coders Computer](https://ltarran.github.io/reading-notes/git)

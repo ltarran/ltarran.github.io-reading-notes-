@@ -50,6 +50,8 @@ There are 2 types of paths **absolute** and **relative**.
 
 4. [Git](https://ltarran.github.io/reading-notes/git)
 
-5. [Wire Framing](ltarran.github.io/reading-notes/wireframing)
+5. [Wire Framing](https://ltarran.github.io/reading-notes/wireframing)
 
-6. [HTML](ltarran.github.io/reading-notes/html)
+6. [HTML](https://ltarran.github.io/reading-notes/html)
+
+7. [CSS](http://ltarran.github.io/reading-notes/css)

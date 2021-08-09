@@ -92,4 +92,5 @@ Constants are used to store values that are unable to be changed.
 Created with the keyword `const`.
 
 
+
 [Home](http://ltarran.github.io/reading-notes)

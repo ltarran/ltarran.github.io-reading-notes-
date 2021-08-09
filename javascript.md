@@ -9,7 +9,7 @@ JavaScript is a scripting language that allows you to implement complex feature 
 
 <h2><b> The three layers build on top of one another.</b></h2>
 
-1. Add HTML to give structure and purpose:
+Add HTML to give structure and purpose:
 
 ```
 <p>Hello World</p>
@@ -17,7 +17,7 @@ JavaScript is a scripting language that allows you to implement complex feature 
 
 <p>Hello World</p>
 
-2. Then add CSS to give style:
+Then add CSS to give style:
 
 ```
 p {
@@ -35,10 +35,10 @@ p {
   cursor: pointer;
 }
 ```
+Finally add some JavaScript to implement dynamic behavior
 
-3. Finally add some JavaScript to implement dynamic behavior
-
-```const para = document.querySelector('p');
+```
+const para = document.querySelector('p');
 
 para.addEventListener('click', updateName);
 
@@ -52,7 +52,8 @@ function updateName() {
 
 The place where you will add code is inside your ```<Script>``` element at the bottom of HTML
 
-```<script>
+```
+<script>
 
   // Your JavaScript goes here
 
@@ -61,7 +62,8 @@ The place where you will add code is inside your ```<Script>``` element at the b
 
 <center> <b>Add variables to store data.</b> </center>
 
-```let randomNumber = Math.floor(Math.random() * 100) + 1;
+```
+let randomNumber = Math.floor(Math.random() * 100) + 1;
 
 const guesses = document.querySelector('.guesses');
 const lastResult = document.querySelector('.lastResult');

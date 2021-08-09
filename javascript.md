@@ -38,31 +38,29 @@ p {
 
 3. Finally add some JavaScript to implement dynamic behavior
 
-```
-const para = document.querySelector('p');
+```const para = document.querySelector('p');
 
 para.addEventListener('click', updateName);
 
 function updateName() {
   let name = prompt('Enter a new name');
   para.textContent = 'Hello World: ' + name;
-}
-```
+}```
 
-<h2> <center> <b>Initial Setup</b> </center>
+<h3><center> <b>Initial Setup</b> </center></h3>
 
 The place where you will add code is inside your ```<Script>``` element at the bottom of HTML
-```
-<script>
+
+```<script>
 
   // Your JavaScript goes here
 
 </script>
 ```
-<center><b>Add variables to store data.</b></center>
 
-```
-let randomNumber = Math.floor(Math.random() * 100) + 1;
+<center> <b>Add variables to store data.</b> </center>
+
+```let randomNumber = Math.floor(Math.random() * 100) + 1;
 
 const guesses = document.querySelector('.guesses');
 const lastResult = document.querySelector('.lastResult');
@@ -74,14 +72,15 @@ const guessField = document.querySelector('.guessField');
 let guessCount = 1;
 let resetButton;
 ```
+
 <center>This sets up variables and constant you need to store data</center>
  
 1. <b>Variable</b>
 
 Variables are containers for values such as numbers or strings of text.
-* ```var```
-* ```let```
-* ```const```
+* `var`
+* `let`
+* `const`
 
 2. <b>Constants </b>
 
@@ -90,3 +89,27 @@ Created with the keyword `const`.
 
 
 [Home](http://ltarran.github.io/reading-notes)
+
+
+<h3> <center><b>Functions and Operators<center></b> </h3>
+
+
+A JavaScript <b>function</b> is a block of code designed to perform a particular task.
+
+* The name of the function.
+* A list of parameters to the function, enclosed in parentheses and separated by commas.
+* The JavaScript statements that define the function, enclosed in curly brackets, {...}.
+
+The code defines the name: square
+
+``` 
+function square(number) {
+  return number * number;
+}
+```
+
+JavaScript <b>operators</b> allow us to perform tests, do math, join strings together, and other such things.
+
+<b>Control flow</b>
+
+The control flow is the order in which the computer executes statements in a script.

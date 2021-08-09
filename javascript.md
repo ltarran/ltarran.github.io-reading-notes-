@@ -51,7 +51,7 @@ function updateName() {
 
 <h2> <center> <b>Initial Setup</b> </center>
 
-The place where you will add code is inside your ``<Script>`` element at the bottom of HTML
+The place where you will add code is inside your ```<Script>``` element at the bottom of HTML
 ```
 <script>
 
@@ -79,9 +79,9 @@ let resetButton;
 1. <b>Variable</b>
 
 Variables are containers for values such as numbers or strings of text.
-* ``var``
-* `let`
-* `const`
+* ```var```
+* ```let```
+* ```const```
 
 2. <b>Constants </b>
 

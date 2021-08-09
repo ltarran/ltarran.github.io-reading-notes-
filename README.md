@@ -28,3 +28,5 @@
 6. [HTML](https://ltarran.github.io/reading-notes/html)
 
 7. [CSS](https://ltarran.github.io/reading-notes/css)
+
+8. [JavaScript](https://ltarran.github.io/reading-notes/javascript)

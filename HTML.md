@@ -61,16 +61,5 @@ This is wrong:
 
 #
 
-1.[Home](https://ltarran.github.io/reading-notes)
+1.  [Home](https://ltarran.github.io/reading-notes)
 
-2.[Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)  
-
-3. [Learning Markdowns](https://ltarran.github.io/reading-notes/learningmarkdowns)
-
-4. [Coder's Computer](https://ltarran.github.io/reading-notes/coderscomputer)
-
-5. [Git](https://ltarran.github.io/reading-notes/git)
-
-6. [Wire Framing](https://ltarran.github.io/reading-notes/wireframing)
-
-7. [CSS](http://ltarran.github.io/reading-notes/css)

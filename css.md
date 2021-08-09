@@ -58,14 +58,3 @@ Example:
 #
 1. [Home](https://ltarran.github.io/reading-notes)  
 
-2. [Growth Mindset](https://ltarran.github.io/reading-notes/growthmindset)
-
-3. [Learning Markdown](https://ltarran.github.io/reading-notes/learningmarkdowns)
-
-4.  [Coders Computer](https://ltarran.github.io/reading-notes/coderscomputer)
-
-5.  [Git](https://ltarran.github.io/reading-notes/git)
-
-6. [HTML](https://ltarran.github.io/reading-notes/html)
-
-7. [Wire Framing](https://ltarran.github.io/reading-notes/wireframing)

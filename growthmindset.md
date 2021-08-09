@@ -44,16 +44,4 @@ Try not to feel discouraged from direct criticism instead **Ask Questions.**
 
 1. [Home](https://ltarran.github.io/reading-notes)  
 
-2. [Learning Markdowns](https://ltarran.github.io/reading-notes/learningmarkdowns)
-
-3. [Coder's Computer](https://ltarran.github.io/reading-notes/coderscomputer)
-
-4. [Git](https://ltarran.github.io/reading-notes/git)
-
-5. [Wire Framing](https://ltarran.github.io/reading-notes/wireframing)
-
-6. [HTML](https://ltarran.github.io/reading-notes/html)
-
-7. [CSS](http://ltarran.github.io/reading-notes/css)
-
 

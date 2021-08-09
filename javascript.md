@@ -1,7 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-
 <h1><center>What is JavaScript?</center></h1>
 
 JavaScript is a scripting language that allows you to implement complex feature on web pages. 

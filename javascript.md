@@ -45,7 +45,8 @@ para.addEventListener('click', updateName);
 function updateName() {
   let name = prompt('Enter a new name');
   para.textContent = 'Hello World: ' + name;
-}```
+}
+```
 
 <h3><center> <b>Initial Setup</b> </center></h3>
 
